@@ -1,4 +1,4 @@
-# ps5-bar-tool
+# PS5-bar-tool
 
 PS5 implements a feature called "Backup and Restore" (BAR) to allow users to move or save users and apps information.
 
