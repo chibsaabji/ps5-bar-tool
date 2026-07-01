@@ -53,3 +53,6 @@ You'll find a log file in the folder.
 ## 🤝 Credits & Acknowledgments
 DEV of PS5-PAYLOAD-SDK [john-tornblom](https://github.com/john-tornblom) : [PS5 PAYLOAD SDK](https://github.com/ps5-payload-dev/sdk/releases)   
 DEV of PS5-Bar-Tool [c0w-ar](https://github.com/c0w-ar) : [ps5-bar-tool](https://github.com/c0w-ar/ps5-bar-tool)
+
+## SUPPORT
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J8A3229V9A)
